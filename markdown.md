@@ -15,6 +15,9 @@ Combo style ***Example***
 
 ## Picturies
 
+For insert img format:
+![Don't found picture](1.jpg)
+
 ## Links
 
 ## Tabls
