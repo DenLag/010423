@@ -13,6 +13,8 @@ Combo style ***Example***
 
 ## Lists
 
+For list use *
+
 ## Picturies
 
 For insert img format:
