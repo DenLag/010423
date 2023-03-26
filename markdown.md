@@ -1,6 +1,8 @@
 # Insttruction for Markdown
 
 ## Style of text
+
+For branch list1: use *
 Italics style *Example*
 
 Bold style **Example**
