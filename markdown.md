@@ -12,6 +12,12 @@ Combo style ***Example***
 
 
 ## Lists
+* One
+
+* Two
+
+1. One
+2. Two
 
 For list use *
 
